@@ -1,7 +1,5 @@
 package br.com.yagoananias.designpattern.factory;
 
-import br.com.yagoananias.designpattern.factory.vehicles.BicycleTransport;
-
 public class Main {
     private static Transport transport;
 
